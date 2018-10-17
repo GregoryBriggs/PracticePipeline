@@ -7,24 +7,7 @@
   <name>PracticePipeline</name>
   <description>Practicing for piplines</description>
   
-  
-  	<dependencies>
-		<dependency>
-			<groupId>com.fasterxml.jackson.core</groupId>
-			<artifactId>jackson-core</artifactId>
-			<version>2.9.7</version>
-		</dependency>
-		<dependency>
-			<groupId>com.fasterxml.jackson.core</groupId>
-			<artifactId>jackson-databind</artifactId>
-			<version>2.0.0</version>
-		</dependency>
-
-		<dependency>
-			<artifactId>ojdbc7</artifactId>
-			<groupId>com.oracle</groupId>
-			<version>12.1.0.1</version>
-		</dependency>
+	<dependencies>
 		<!-- https://mvnrepository.com/artifact/junit/junit -->
 		<dependency>
 			<groupId>junit</groupId>
